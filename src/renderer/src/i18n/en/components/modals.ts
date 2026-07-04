@@ -1,0 +1,26 @@
+export const modals = {
+  yes: 'Yes',
+  no: 'No',
+  cancel: 'Cancel',
+  save: 'Save',
+  close: 'Close',
+  restore: 'Restore',
+  newRealmlist: 'NEW REALMLIST',
+  editRealmlist: 'EDIT REALMLIST',
+  serverTitle: 'Server title',
+  serverTitlePlaceholder: 'Ex... My server',
+  realmlist: 'Realmlist',
+  realmlistPlaceholder: 'Ex... logon.server.com',
+  confirmAction: 'Are you sure you want to perform this action?',
+  backupWtf: 'Do you want to save a backup copy of the WTF folder?',
+  restoreWtf:
+    'This action will overwrite your current WTF folder. Are you sure you want to continue?',
+  loading: 'Loading...',
+  backupLoading: 'Backing up WTF folder, please wait.',
+  restoreLoading: 'Restoring WTF folder, please wait.',
+  unexpectedError: 'Oops, an unexpected error occurred.',
+  calculating: 'Calculating...',
+  diskUsageLoading: 'Scanning client folders, please wait.',
+  diskUsageTitle: 'Disk usage',
+  total: 'Total'
+}
