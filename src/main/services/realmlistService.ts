@@ -31,13 +31,13 @@ export const DEFAULT_SERVERS: RealmServer[] = [
   {
     id: 'chromie',
     name: 'ChromieCraft',
-    realmlist: 'logon.chromie-craft.com',
+    realmlist: 'logon.chromiecraft.com',
     website: 'https://chromie-craft.com'
   },
   {
     id: 'wowpatagonia',
     name: 'WowPatagonia',
-    realmlist: 'logon.wowpatagonia.com',
+    realmlist: 'logon.wow-patagonia.com',
     website: 'https://wowpatagonia.com'
   }
 ]
